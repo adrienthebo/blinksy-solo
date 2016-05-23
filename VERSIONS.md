@@ -19,7 +19,13 @@ TODO:
   * Reduce VCC trace clearance to ~10 mils
   * Compact traces to AUX header
   * properly match capacitor footprints with parts
-  * Maybe - Select power header with more clearance between pins
+  * Maybe - Select power header with more clearance between pins - Mini Fit jr?
+  * Move part silk screen labels off of traces for clarity
+  * Compact signal impedance matching resistors
+  * Build/use footprints for locking headers
+  * Redo 74HCT245 footprint for directionality
+  * Redo Teensy footprint for directionality
+  * Bottom silk screen labels for octo pins on Teensy
 
 NOTE: OSH Park 2 layer boards are less precise than 4 layer boards.
 
