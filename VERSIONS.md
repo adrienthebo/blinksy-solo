@@ -26,6 +26,7 @@ TODO:
   * Redo 74HCT245 footprint for directionality
   * Redo Teensy footprint for directionality
   * Bottom silk screen labels for octo pins on Teensy
+  * Double row with ground pins for AUX
 
 NOTE: OSH Park 2 layer boards are less precise than 4 layer boards.
 
